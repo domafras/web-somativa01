@@ -1,0 +1,31 @@
+* {
+    text-align: left;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fminecraft-2560x1440.jpg&f=1&nofb=1');
+    background-color: #111;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+ol {
+    color: white;
+}
+
+
+h1 {
+    color: greenyellow;
+}
+
+#aline {
+    color: white;
+    text-size-adjust: 20px;
+}
+
+tr, td {
+    color: white;
+}
